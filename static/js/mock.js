@@ -1,5 +1,4 @@
-var cat ={
-  "catalog": [
+var catalogo = [
     {
       "id": 1,
       "imageURL": "http://placehold.it/150/1b21a0/ffffff",
@@ -41,4 +40,3 @@ var cat ={
       "currency": "$"
     }
   ]
-}

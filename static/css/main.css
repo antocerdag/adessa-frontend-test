@@ -1,1 +1,32 @@
 /* you can add any styles you think could improve user's experience */
+*{
+	font-family: 'Roboto', sans-serif;
+}
+header h1{
+	font-weight: 700;
+}
+
+/* SECCION TOTAL */
+.total{
+	margin-top: 6%;
+}
+.info-total{
+	background-color: green;
+	width: 50px;
+	height: 80px;
+    color: white;
+    margin-left: 13px;
+    padding: 11px;
+    border-radius: 11px;
+}
+
+.productlist h3{
+    margin-left: 15px;
+    margin-top: 3%;
+}
+
+.productbox{
+    background-color: green;
+    width: 100%;
+
+}
