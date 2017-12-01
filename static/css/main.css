@@ -1,49 +1,40 @@
 /* you can add any styles you think could improve user's experience */
-*{
-	font-family: 'Roboto', sans-serif;
-}
-header h1{
-	font-weight: 700;
-}
+* {
+  font-family: 'Roboto', sans-serif; }
+
+header h1 {
+  font-weight: 700; }
 
 /* SECCION TOTAL */
-.total{
-	margin-top: 6%;
-}
-.info-total{
-	background-color: green;
-	width: 50px;
-	height: 80px;
+.total {
+  margin-top: 6%; }
+  .total .info-total {
+    background-color: green;
+    width: 50px;
+    height: 80px;
     color: white;
     margin-left: 13px;
     padding: 11px;
-    border-radius: 11px;
-}
+    border-radius: 11px; }
 
-.productlist h3{
-    margin-left: 15px;
-    margin-top: 3%;
-}
+.productlist h3 {
+  margin-left: 15px;
+  margin-top: 3%; }
 
-.productsection{
-	margin-top: 1%;
-}
-.productbox{
-	background-color: #eceaea;
-	border-bottom-left-radius: 7px;
-    border-bottom-right-radius: 7px;
-}
+/* SECCION PRODUCTOS */
+.productsection {
+  margin-top: 1%; }
+  .productsection .productbox {
+    background-color: #eceaea;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px; }
+    .productsection .productbox .products img {
+      width: 100%; }
+    .productsection .productbox .productinfo {
+      margin-top: 6%;
+      text-transform: uppercase;
+      font-weight: 300; }
+    .productsection .productbox .btnadd {
+      margin-left: 24%; }
 
-.products img{
-	width: 100%;
-}
-
-.productinfo{
-	margin-top: 6%;
-	text-transform: uppercase;
-	font-weight: 300;
-}
-
-.btnadd{
-	margin-left: 24%;
-}
+/*# sourceMappingURL=main.css.map */
