@@ -25,8 +25,26 @@ header h1{
     margin-top: 3%;
 }
 
+.productsection{
+	margin-top: 1%;
+}
 .productbox{
-    background-color: green;
+	background-color: #eceaea;
     width: 100%;
+	border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
 
+.products img{
+	width: 100%;
+}
+
+.productinfo{
+	margin-top: 6%;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+.btnadd{
+	margin-left: 24%;
 }
